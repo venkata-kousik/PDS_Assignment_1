@@ -1,0 +1,4 @@
+The following analysis aims to get insights on the Frailty data among the females. This analysis is based on various factors such as Height, Weight, Age, Grip Strength. This data was analysed in three stages of reproducible workflow. They are Data Collection, Data Processing and Data Analysis. 
+
+
+In the Data Collection stage, the data that was provided was saved into the raw_data.csv file. This raw data was loaded into the google colab for further processing. In the Data Processing stage, the data types of the columns were changed and the clean data was saved into clean_data.csv. In the last stage which is the Data Analysis stage, the analysis was performed on this clean_data.csv and the results were captured and saved under the results folder. 
